@@ -15,14 +15,14 @@ function clues() {
     textSize(15);
     text("A T A D A S B A" ,100, 200);
     fill("lightblue");
-    text("Hint: The code name for this symbol: '( )' " , 100, 220);
+    text("Hint: Base for data and stores alot of infos" , 100, 220);
 
 
     fill("white");
     textSize(15);
     text("C U T N I F O N" ,700, 160);
     fill("lightblue");
-    text("Hint: Base for data and stores alot of infos" , 700, 180);
+    text("Hint: The code name for this symbol: '( )' " , 700, 180);
 
 
 }
